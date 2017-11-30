@@ -1,4 +1,4 @@
-package com.young.thinking.java;
+package com.young.thinking.duotai;
 
 /**
  * Created by yanghua on 2017Äê11ÔÂ30ÈÕ
