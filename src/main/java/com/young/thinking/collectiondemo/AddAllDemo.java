@@ -7,7 +7,11 @@ import java.util.Collections;
 import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
-
+/**
+ * 
+ * created by  youngwa at 2017Äê12ÔÂ21ÈÕ
+ *
+ */
 public class AddAllDemo {
     public static void main(String[] args) {
     	System.out.println("11111111111");
@@ -20,4 +24,4 @@ public class AddAllDemo {
     	co.forEach(System.out::println);
     	ins.forEach(System.out::println);
 	}
-}
+} 

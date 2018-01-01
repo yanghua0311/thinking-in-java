@@ -3,7 +3,7 @@ package com.young.thinking.listdemo;
 import java.util.LinkedList;
 
 /**
- * @author youngwa
+ * Created by youngwa on 2017Äê12ÔÂ21ÈÕ
  *
  */
 public class SimpleStack<E> {
