@@ -21,11 +21,9 @@ public class Demo01 {
 		} catch (Exception e) {
 				i+=100;
 		}
-				
-			
 		}
 		
-	
+	System.out.println("123456789");
 		
 	}
 	public static void main(String[] args) {
