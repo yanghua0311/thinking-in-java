@@ -4,6 +4,7 @@ package com.young.thinking.adaptermodel;
  * Created by youngwa on 2018年4月9日
  *
  */
+
 /**
  * 适配器的场景，当一个类中的方法（Apply）处理一个接口（Processor），
  * 接口中的抽象方法和另一个类（Filter）当方法相似，也想被这样处理，
